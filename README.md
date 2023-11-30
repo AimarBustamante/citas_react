@@ -1,6 +1,8 @@
 
 # PetCare Portal
 
+![Mockup-Image](public/Pet-Care-Portal-Mockup.png)
+
 PetCare Portal is a web application developed for veterinarians, allowing pet owners to input essential information about their pets. The project is built using React, Vite, and Tailwind CSS to provide a user-friendly and efficient experience.
 
 ## Installation
